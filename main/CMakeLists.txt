@@ -9,5 +9,8 @@ idf_component_register(
         freertos
         log
         esp_system
+        esp_timer
+        esp_http_server
         esp-mqtt
+        esp32-camera
 )
