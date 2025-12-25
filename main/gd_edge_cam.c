@@ -24,7 +24,7 @@
 #define WIFI_PASS ""     
 #define USE_OPEN_NETWORK 0
 #define PI_IP     ""
-#define DEVICE_ID "cam01"
+#define DEVICE_ID ""
 /* =================================================== */
 
 static const char *TAG = "gd_cam";
